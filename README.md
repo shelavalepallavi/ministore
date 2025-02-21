@@ -42,11 +42,11 @@ Integrated Axios for API calls
 Implemented a modal for better UX
 
 
-📎 Repository Link
-🔗 GitHub: MiniStore Repo
+📎 Repository Link : https://github.com/shelavalepallavi/ministore
+🔗 GitHub: [[MiniStore Repo](https://github.com/shelavalepallavi/ministore)]
 
 👨‍💻 Author
 👤 Pallavi Shelavale
 
-GitHub: shelavalepallavi
+GitHub: [shelavalepallavi](https://github.com/shelavalepallavi/)
 Portfolio: pallavishelavale.github.io
